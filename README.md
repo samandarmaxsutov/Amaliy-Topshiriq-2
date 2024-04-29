@@ -1,4 +1,4 @@
-<h1>A maily Topshiriq 2</h1>
+<h1> Amaily Topshiriq 2 </h1>
 
 <br>
 ![image](https://github.com/samandarmaxsutov/Amaliy-Topshiriq-2/assets/101328871/2a41a550-d97f-49ec-aa28-27ce8e659af6)
